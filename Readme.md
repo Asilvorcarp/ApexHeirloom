@@ -20,11 +20,15 @@ Get the Apex Heirlooms by glitching the game.
 
    2. After running `Code Cell B`, operate the game to capture the buttons.
 
-   3. After running `Code Cell C`, enter the game menu page, then it'll start automatically (with config of which heirloom do you want).
+      This includes: **//TODO**
+
+   3. After running `Code Cell C`, enter the game menu page, then it'll start to repeat automatically (with config of which heirloom do you want).
 
 4. Sit back and relax.
 
    (when it's done, it'll show a message box)
+
+5. If you want to interrupt it, press `Ctrl + C`. //TODO
 
 ## Todo
 
@@ -56,14 +60,18 @@ Get the Apex Heirlooms by glitching the game.
 
 2. 将游戏显示模式和分辨率设置为窗口模式和 1280x720。
 
-3. 依次运行所有代码单元格。
+3. 依次运行**所有**代码单元格。
 
-   1. 运行 `Code Cell A`，然后在 3 秒内将鼠标光标指在 **游戏画面（不包括标题栏）** 的精确左上角，从而完成定位。
+   1. 运行 `Code Cell A` 后，在 3 秒内将鼠标光标指在 **游戏画面（不包括标题栏）** 的精确左上角，从而完成定位。
 
-   2. 运行 `Code Cell B`，然后切换游戏界面以捕获按钮。
+   2. 运行 `Code Cell B` 后，切换游戏界面以捕获按钮。
 
-   3. 运行 `Code Cell C` 并进入游戏菜单页面，然后它将自动开始（根据您想要的传家宝配置）。
+      包括：**//TODO**
+
+   3. 运行 `Code Cell C` 后，进入游戏菜单页面，然后它将自动开始循环运行（根据您想要的传家宝配置）。
 
 4. 坐下来放松一下。
 
    （完成后，它将显示消息框）
+
+5. 如果要打断它，请按 `Ctrl + C`。 //TODO
