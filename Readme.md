@@ -16,10 +16,10 @@ Get the Apex Heirlooms by glitching the game.
 
 2. Set your game display mode and resolution to Windowed and 1280x720.
 
-3. Run the first script before holding your mouse cursor on the top left corner of the game window in 3 seconds in order to center the window.
+3. Run to `Code Cell A` before holding your mouse cursor on the top left corner of the game window in 3 seconds in order to center the window.
 
-4. Run the second script (with configs about which heirloom do you want).
+4. Run to `Code Cell B` and operate the game to capture the buttons.
 
-5. Do as the script says.
+5. Run to `Code Cell C` and enter the game menu page (with configs about which heirloom do you want).
 
-6. When it is running automatically, sit back and relax.
+6. Sit back and relax.
