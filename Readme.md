@@ -23,3 +23,9 @@ Get the Apex Heirlooms by glitching the game.
 5. Run to `Code Cell C` and enter the game menu page (with configs about which heirloom do you want).
 
 6. Sit back and relax.
+
+## Todo
+
+- [ ] readme: pages/buttons to capture
+
+- [ ] add Seer
