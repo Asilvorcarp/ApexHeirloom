@@ -18,11 +18,13 @@ Get the Apex Heirlooms by glitching the game.
 
 4. Run **all** the code cells in order.
 
-   1. After running `Code Cell A`, point your mouse cursor at the exact top left corner of the game screen **(title bar not included)** in 3 seconds in order to locate the window.
+   1. Before running `Code Cell A` to locate window, make sure your game can be fully displayed when it's in the foreground. And dont move the game window after this.
+
+      > If you choose not to `auto_locate_game`: after running `Code Cell A`, point your mouse cursor at the exact top left corner of the game screen **(title bar not included)** in 3 seconds in order to locate the window.
 
    2. After running `Code Cell B`, operate the game to capture the buttons.
 
-      This includes: **//TODO**
+      This includes: (See the images in the `lib` folder for details) **//TODO**
 
    3. After running `Code Cell C`, enter the game menu page, then it'll start to repeat automatically (with config of which heirloom do you want).
 
@@ -30,21 +32,23 @@ Get the Apex Heirlooms by glitching the game.
 
    (when it's done, it'll show a message box)
 
-6. If you want to interrupt it, press `Ctrl + C`. //TODO
+6. If you want to interrupt it, press `Ctrl + C`. **//TODO**
 
 ## Todo
 
 - [x] dont force to be centered, just point at the top left corner
 
-  - [ ] use `pywin32` to locate the window
+  - [x] use `pywin32` to locate the window
 
-- [ ] show message box
+- [x] add Seer
+
+- [x] show process of capturing buttons
 
 - [ ] readme: pages/buttons to capture
 
-- [ ] add Seer
+- [ ] interrupt
 
-- [ ] show process of capturing buttons
+- [ ] show message box
 
 # 中文版
 
@@ -66,11 +70,13 @@ Get the Apex Heirlooms by glitching the game.
 
 4. 依次运行**所有**代码单元格。
 
-   1. 运行 `Code Cell A` 后，在 3 秒内将鼠标光标指在 **游戏画面（不包括标题栏）** 的精确左上角，从而完成定位。
+   1. 在运行 `Code Cell A` 以定位窗口之前，确保你的游戏在前台时可以完全显示，并且在这之后不要移动游戏窗口。
+
+      > 如果你选择不自动定位窗口(`auto_locate_game`)：在运行 `Code Cell A` 之后，在 3 秒内将鼠标光标指向游戏屏幕的**左上角**（标题栏不包括在内）以定位窗口。
 
    2. 运行 `Code Cell B` 后，切换游戏界面以捕获按钮。
 
-      包括：**//TODO**
+      这些按钮包括：(详见 `lib` 文件夹下的图片) **//TODO**
 
    3. 运行 `Code Cell C` 后，进入游戏菜单页面，然后它将自动开始循环运行（根据您的配置）。
 
@@ -78,4 +84,4 @@ Get the Apex Heirlooms by glitching the game.
 
    （完成后，它将显示消息框）
 
-6. 如果要打断它，请按 `Ctrl + C`。 //TODO
+6. 如果要打断它，请按 `Ctrl + C`。 **//TODO**
