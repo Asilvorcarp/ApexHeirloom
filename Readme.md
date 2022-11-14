@@ -26,6 +26,8 @@ Get the Apex Heirlooms by glitching the game.
 
 ## Todo
 
+- [ ] dont force to be centered, just point at the top left corner
+
 - [ ] readme: pages/buttons to capture
 
 - [ ] add Seer
